@@ -1,0 +1,4 @@
+This is app for people to write notes.
+type down things you want to save and click the save button so that you will save the notes.
+Every nothes is editable after you svae it. Just click the part you want to change and edit it.
+It is easy to use and very useful. Have a nice day!
